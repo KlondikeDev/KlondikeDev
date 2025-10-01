@@ -1,5 +1,8 @@
-## Hi there 👋
-
+# KlondikeDev
+### Currently working on:
+- KNet (Klondike Network)
+- WingspanOS
+![Alt text](https://static.fsf.org/nosvn/associate/crm/7035290.png "Membership Badge")
 <!--
 **KlondikeDev/KlondikeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
