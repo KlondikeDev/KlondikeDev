@@ -5,6 +5,7 @@
 
 #  
 ![Alt text](https://static.fsf.org/nosvn/associate/crm/7035290.png "Membership Badge")
+<a href="https://u.fsf.org/friendspring19"><img src="https://static.fsf.org/nosvn/images/badges/Spring19-Fiefdom.png" alt="Double the movement"></a>
 <!--
 **KlondikeDev/KlondikeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
